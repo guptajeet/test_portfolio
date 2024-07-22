@@ -16,5 +16,5 @@ This is a simple portfolio website, showcasing professional experience, educatio
 
 ## Usage
 
-Open a web browser and go to `http://127.0.0.1:5000/` to view the portfolio website.
+Open a web browser and go to `http://<EC2 PUBLIC IP>:5000/` to view the portfolio website.
 
