@@ -1,13 +1,20 @@
-# test_portfolio
-Directory Structure
-portfolio_website/
-│
-├── static/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-├── templates/
-│   └── index.html
-├── app.py
-└── README.md
+# Portfolio Website
+
+This is a simple portfolio website, showcasing professional experience, education, profile, and contact information.
+
+## Requirements
+
+- Python 3.x
+- Flask
+
+## Installation
+
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install Flask using `pip install Flask`.
+4. Run the application using `python app.py`.
+
+## Usage
+
+Open a web browser and go to `http://127.0.0.1:5000/` to view the portfolio website.
+
